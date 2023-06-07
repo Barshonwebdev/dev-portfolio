@@ -2,7 +2,7 @@ body{
     font-family: 'Roboto', sans-serif;
     color: rgb(241, 238, 238);
     background-color: black;
-    margin: 0;
+    
 }
 h1{
     font-size: 40px;
@@ -42,4 +42,16 @@ h1{
 .footnote{
     text-align: center;
     color: gray;
+}
+.experience{
+    background-color: rgb(235, 235, 235);
+    margin: 3%;
+    padding: 2%;
+    border-radius: 20px;
+    box-shadow: 15px 15px 20px rgb(0, 51, 128);
+}
+.experience-part{
+    padding: 1%;
+    color: rgb(47, 129, 196);
+    border-left: 7px solid rgb(255, 0, 0);
 }
