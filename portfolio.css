@@ -1,6 +1,8 @@
 body{
     font-family: 'Roboto', sans-serif;
-    color: grey;
+    color: rgb(241, 238, 238);
+    background-color: black;
+    margin: 0;
 }
 h1{
     font-size: 40px;
@@ -13,6 +15,7 @@ h1{
 
 .container{
     display: flex;
+    
 }
 
 .half-width{
