@@ -10,3 +10,20 @@ h1{
 .partial-header{
     color: blueviolet;
 }
+
+.container{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+
+.hire-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(violet, blue);
+    color: white;
+    border-radius: 5%;
+}
