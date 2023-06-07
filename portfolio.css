@@ -38,3 +38,8 @@ h1{
 .working-pic{
     width: 80%;
 }
+
+.footnote{
+    text-align: center;
+    color: gray;
+}
