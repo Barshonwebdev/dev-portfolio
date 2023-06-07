@@ -30,3 +30,11 @@ h1{
     color: white;
     border-radius: 5%;
 }
+
+.second-part{
+    display: flex;
+}
+
+.working-pic{
+    width: 80%;
+}
