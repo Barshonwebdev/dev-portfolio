@@ -32,7 +32,7 @@ h1{
 }
 
 .hire-button:hover{
-        background-image: linear-gradient(rgb(228, 64, 36), blue);
+        background-image: linear-gradient(rgb(228, 64, 36), blue); 
 }
 
 .second-part{
